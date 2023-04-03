@@ -23,7 +23,7 @@
 - Pandas - version 1.4.4
 - NumPy - version 1.21.5
 - Seaborn - version 0.11.2
-- Jyputer
+- Jupyter Notebook
 ## Acknowledgements
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
