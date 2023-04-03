@@ -1,5 +1,5 @@
 # Lending_Club_CaseStudy_EDA
-> In this case study, We will use EDA to understand how consumer attributes and loan attributes influence the tendency of default. Means if the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the credit company.
+> In this case study, We will perform EDA to understand how consumer attributes and loan attributes influence the tendency of default. Means if the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the credit company.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,4 +15,17 @@
 #### Problem Statement
 - With EDA we will understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  Which can   be     utilized for risk assessment. 
 #### Dataset
-- 
+- The data set is a csv file with the loan data for the Lending Club.
+
+## Conclusions
+
+## Technologies Used
+- Pandas - version 1.4.4
+- NumPy - version 1.21.5
+- Seaborn - version 0.11.2
+- Jyputer
+## Acknowledgements
+This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+
+## Contact
+Created by Ankit[@ankitgithiub222] and - feel free to contact me!
