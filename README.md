@@ -28,4 +28,4 @@
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 ## Contact
-Created by Ankit[@ankitgithiub222] and - feel free to contact me!
+Created by Ankit[@ankitgithiub222] and Praneta[@pranetasameerss] - feel free to contact me!
