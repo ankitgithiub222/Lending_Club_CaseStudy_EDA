@@ -1,4 +1,4 @@
-# Lending_Club_CaseStudy_EDA
+# Lending Club CaseStudy EDA
 > In this case study, We will perform EDA to understand how consumer attributes and loan attributes influence the tendency of default. Means if the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the credit company.
 
 ## Table of Contents
